@@ -12,8 +12,8 @@
     "@moralisweb3/next": "^2.24.0",
     "@web3uikit/core": "^0.1.4",
     "moralis": "^2.0.1",
-    "next": "^12.2.5",
-    "next-auth": "^4.10.3",
+    "next": "^14.2.5",
+    "next-auth": "^4.24.7",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
